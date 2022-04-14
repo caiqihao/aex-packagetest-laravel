@@ -1,0 +1,15 @@
+{
+    "name": "aex/packagetest-for-laravel",
+    "autoload": {
+        "psr-4": {
+            "Aex\\PackagetestForLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "码上有钱",
+            "email": "14718283542@163.com"
+        }
+    ],
+    "require": {}
+}
