@@ -1,5 +1,5 @@
 {
-    "name": "aex/packagetest-for-laravel",
+    "name": "cqh/packagetest-for-laravel",
     "autoload": {
         "psr-4": {
             "Aex\\PackagetestForLaravel\\": "src/"
